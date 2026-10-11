@@ -1,0 +1,5 @@
+Kode,Kondisi,Trainable_Params,Learning_Rate,Best_Val_Acc,Macro_F1
+B1,Baseline from Scratch,11181642,1e-3,0.4582,0.4487
+B2,Feature Extraction,5130,1e-3,0.9331,0.9333
+B3,Progressive Fine-Tuning,8398858,1e-4 & 1e-3,0.9365,0.9564
+B4,Feature Ext (Tanpa Augmentasi),5130,1e-3,0.9398,0.9495
